@@ -2,6 +2,7 @@
       --bg1: green;
       --bg2: blue; 
   background-image:url("background.jpg");
+  background-size: 120%;
 }
 
 
